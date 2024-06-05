@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">A passionate researcher-developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvaibhavchamp&label=Profile%20views&color=0e75b6&style=flat" alt="mrvaibhavchamp" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvaibhavchamp" alt="mrvaibhavchamp" /></a> </p>
+
 - 🔭 I’m currently working on **Knowledge-Graph based LLM Apps!**
 
 - 🌱 I’m currently learning **Flutter and Flask..(JS🤔?)**
 
 - 👯 I’m looking to collaborate on **any cool stuff.**
 
-- 📫 How to reach me **vaibhavchaudhary144@gmail.com**
+- 📫 How to reach me **: vaibhavchaudhary144@gmail.com**
 
 - ⚡ Fun fact **I know that I don't know.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-chaudhary-8bba18229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-chaudhary-8bba18229" height="30" width="40" /></a>
-<a href="https://kaggle.com/vaibhavchaudhary01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaibhavchaudhary01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/the_solver007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the_solver007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
