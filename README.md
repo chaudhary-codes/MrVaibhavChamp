@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Knowledge-Graph based LLM Apps!**
 
-- 🌱 I’m currently learning **Flutter and Flask..(JS🤔?)**
+- 🌱 I’m currently learning **Flutter, Flask...**
 
 - 👯 I’m looking to collaborate on **any cool stuff.**
 
