@@ -29,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrvaibhavchamp&show_icons=true&locale=en" alt="mrvaibhavchamp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvaibhavchamp&" alt="mrvaibhavchamp" /></p>
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
