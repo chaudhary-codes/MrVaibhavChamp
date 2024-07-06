@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Knowledge-Graph based LLM Apps!**
 
-- 🌱 I’m currently learning **Flask, KGs, RAG...**
+- 🌱 I’m currently learning **DSA, KGs, RAG!**
 
 - 👯 I’m looking to collaborate on **any cool stuff.**
 
